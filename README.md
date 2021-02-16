@@ -4,13 +4,15 @@ This is a React version of the[vanilla JS Expense Tracker](https://github.com/br
 
 ## Usage
 
-`npm install
+``` 
+npm install
 
 # Run on http://localhost:3000
 npm start
 
 # Build for prod
-npm run build`
+npm run build
+```
 
 ### screenshot
 
